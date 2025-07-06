@@ -2,18 +2,16 @@
 Takım Adı = 147
 | Name           | Title        | Social                                                                                       |
 |--------------  |--------------|----------------------------------------------------------------------------------------------|
-| Seval Aktaş    | Product Owner| [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
-| Kübra Bayburlı | Scrum Master | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
-| Sena Nur Yakar | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
-| Ahmet Karaman  | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
+| Seval Aktaş    | Product Owner| [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
+| Kübra Bayburtlı| Scrum Master | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
+| Sena Nur Yakar | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
+| Ahmet Karaman  | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
 
 Ürün İsmi = WriteWise
 
-<details>
-  <summary> # *Ürün Açıklaması* # </summary>
+  # Ürün Açıklaması
 
-
-    • **[Elevator Pitch için tıklayın](./docs/yza.pdf)** 
+  • **[Elevator Pitch için tıklayın](./docs/yza.pdf)**  
   
   • Kişiselleştirilmiş Dil Öğrenme Asistanı, kullanıcının ilgi alanına ve dil seviyesine göre uyarlanmış yapay zekâ destekli yazma görevleri sunan bir mobil uygulamadır.  
   • Uygulama, ilk olarak kullanıcıdan seçtiği ilgi alanıyla ilgili kısa bir yazı yazmasını ister.  
@@ -22,4 +20,10 @@ Takım Adı = 147
   • Yazılan metinler yapay zekâ tarafından dil bilgisi, kelime kullanımı ve anlatım kalitesi açısından detaylı şekilde analiz edilir.  
   • Kullanıcıya anlık ve açıklayıcı geri bildirimler sunularak hataların fark edilmesi ve gelişimin hızlanması sağlanır.
 
-</details>
+
+
+# Hedef Kitle
+
+• İngilizce yazma becerilerini aktif olarak geliştirmek isteyenler  
+• İlgi alanlarına uygun içeriklerle öğrenmeyi tercih eden kullanıcılar  
+• Günlük düzenli pratik yaparak dil becerilerini sürdürülebilir şekilde ilerletmek isteyenler
