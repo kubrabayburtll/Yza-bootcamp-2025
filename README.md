@@ -30,7 +30,6 @@ Takım Adı = 147
 
 
 
-#Sprint 1
 # Sprint 1  
 
 <details>
