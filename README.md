@@ -2,9 +2,9 @@
 Takım Adı = 147
 | Name           | Title        | Social                                                                                       |
 |--------------  |--------------|----------------------------------------------------------------------------------------------|
-| Seval Aktaş    | Product Owner| [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
+| Seval Aktaş    | Product Owner| [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/seval-aktas-a488542a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Kübra Bayburtlı| Scrum Master | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/kubra-bayburtli) |
-| Sena Nur Yakar | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
+| Sena Nur Yakar | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/sena-nur-yakar) |
 | Ahmet Karaman  | Developer    | [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)]() |
 
 Ürün İsmi = WriteWise
