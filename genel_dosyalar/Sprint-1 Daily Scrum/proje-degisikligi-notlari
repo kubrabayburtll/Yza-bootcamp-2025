@@ -1,1 +1,18 @@
+# Önceki Fikirden Vazgeçme Sebeplerimiz
+
+Takım olarak gerçekleştirdiğimiz toplantılar sonucunda, başta planladığımız “İlaç Takip ve Yönetim Sistemi” projesinden vazgeçme kararı aldık. Bu kararın başlıca nedenleri:
+
+1. Kapsamın Beklenenden Büyük ve Karmaşık Olması  
+2. Teknik Bilgi ve Deneyim Yetersizliği  
+3. Veri Erişim ve Güvenlik Sorunları    
+4. Zaman Yönetimi Problemleri  
+6. Alternatif Proje Fikrinin Uygulanabilirliği
+
+Detaylı açıklamalar:
+
+1. İlaç takibi ve yönetimi kapsamlı bir sistem gerektiriyor; doz takibi, ilaç etkileşimleri, hasta profili gibi çok fazla değişken bulunuyor. Bu karmaşıklık, sınırlı zaman ve kaynaklarla başa çıkmayı zorlaştırdı.
+
+2. İlaç verileri sağlık bilgileri içerdiği için, erişim izinleri ve yasal düzenlemeler önemli engeller oluşturabilir. Bu izinleri almak ve güvenliği sağlamak hem uzun hem de zor bir süreçti.
+
+3. Toplantılar sonucunda ortaya çıkan “Kişiselleştirilmiş Dil Öğrenme Asistanı” fikri, teknik ve ilgi alanı açısından daha uygun bulundu ve bu yüzden tercih edildi.
 
