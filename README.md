@@ -27,3 +27,37 @@ Takım Adı = 147
 • İngilizce yazma becerilerini aktif olarak geliştirmek isteyenler  
 • İlgi alanlarına uygun içeriklerle öğrenmeyi tercih eden kullanıcılar  
 • Günlük düzenli pratik yaparak dil becerilerini sürdürülebilir şekilde ilerletmek isteyenler
+
+
+
+#Sprint 1
+# Sprint 1  
+
+<details>
+  <summary><strong>Jüriye Not</strong></summary>
+  <p>
+    Sprint 1 döneminde proje fikrimizi değiştirmek zorunda kaldık. Bu süreçte sınav haftasının da etkisiyle aktif geliştirme yapamadık.
+    Ancak yeni proje fikrimizi netleştirdik ve Sprint 2’ye geçiş için gerekli hazırlıkları tamamladık. Takımca motiveyiz ve önümüzdeki sprintte çalışmaları hızlandırmayı planlıyoruz.
+    Anlayışınız için teşekkür ederiz.
+  </p>
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>Sprint 1 Özeti</strong></summary>
+
+- Proje fikrimizde değişiklik yapıldı.  
+- Yeni proje fikri üzerinde takım olarak mutabık kalındı ve ana hatları netleştirildi.  
+- Takım rolleri belirlendi ve görev dağılımı yapıldı.  
+- Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.  
+
+#### Sprint Review
+Sprint boyunca proje fikri güncellenmiş, takım rolleri belirlenmiş ve teknik hazırlıklar tamamlanarak proje yönü netleştirilmiştir.
+
+#### Sprint Retrospective
+- Yeni proje fikrinde fikir birliği sağlandı ve belirsizlik giderildi.  
+- Zaman yönetimi sprint boyunca yeterince verimli değildi.  
+- Takım içi iletişim ve koordinasyonu geliştirmek adına önümüzdeki sprintte daha yapılandırılmış bir işleyiş hedeflenmektedir.
+
+</details>
