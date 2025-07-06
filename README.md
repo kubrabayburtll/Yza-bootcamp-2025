@@ -23,7 +23,7 @@ Takım Adı = 147
 
 
 # Hedef Kitle
-
+• **[Empathy Map için tıklayın](./genel_dosyalar/Empathy_map.pdf)**
 • İngilizce yazma becerilerini aktif olarak geliştirmek isteyenler  
 • İlgi alanlarına uygun içeriklerle öğrenmeyi tercih eden kullanıcılar  
 • Günlük düzenli pratik yaparak dil becerilerini sürdürülebilir şekilde ilerletmek isteyenler
