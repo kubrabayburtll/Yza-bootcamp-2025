@@ -50,7 +50,7 @@ Takım Adı = 147
 - Proje fikrimizde değişiklik yapıldı.  
 - Yeni proje fikri üzerinde takım olarak mutabık kalındı ve ana hatları netleştirildi.  
 - Takım rolleri belirlendi ve görev dağılımı yapıldı.  
-- Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.[Sprint-1 daily scrum](./genel_dosyalar/Sprint-1DailyScrum/proje-degisikligi-notlari)
+- Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.[Sprint-1 daily scrum](genel_dosyalar/Sprint-1 Daily Scrum/proje-degisikligi-notlari)
 
 
 #### Sprint Review
