@@ -11,7 +11,7 @@ Takım Adı = 147
 
   # Ürün Açıklaması
 
-  • **[Elevator Pitch için tıklayın](./docs/yza.pdf)**  
+  • **[Elevator Pitch için tıklayın](./genel_dosyalar/Elevator_Pıtch.pdf)**  
   
   • Kişiselleştirilmiş Dil Öğrenme Asistanı, kullanıcının ilgi alanına ve dil seviyesine göre uyarlanmış yapay zekâ destekli yazma görevleri sunan bir mobil uygulamadır.  
   • Uygulama, ilk olarak kullanıcıdan seçtiği ilgi alanıyla ilgili kısa bir yazı yazmasını ister.  
