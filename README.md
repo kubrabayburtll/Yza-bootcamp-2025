@@ -50,13 +50,32 @@ Takım Adı = 147
 - Proje fikrimizde değişiklik yapıldı.  
 - Yeni proje fikri üzerinde takım olarak mutabık kalındı ve ana hatları netleştirildi.  
 - Takım rolleri belirlendi ve görev dağılımı yapıldı.  
-- Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.[Sprint-1 Daily Scrum](https://github.com/kubrabayburtll/Yza-bootcamp-2025/blob/main/genel_dosyalar/Sprint-1%20Daily%20Scrum/proje-degisikligi-notlari.txt)
+- Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.[Sprint-1 Daily Scrum](https://imgur.com/a/TzvYnes)
+
 
 
 
 
 #### Sprint Review
-Sprint boyunca proje fikri güncellenmiş, takım rolleri belirlenmiş ve teknik hazırlıklar tamamlanarak proje yönü netleştirilmiştir.
+Proje fikri kişiselleştirilmiş dil öğrenme asistanı olarak netleşmiştir.
+
+Takım üyelerinin rolleri (frontend geliştirici, backend geliştirici, proje yöneticisi) belirlenmiştir.
+
+Gerekli teknik altyapı çalışmaları tamamlanmıştır:
+
+-Figma tasarım çalışmaları
+
+-Backend mimari planlaması
+
+Proje yol haritası oluşturulmuştur.
+
+İlk kullanıcı arayüzü prototipi hazırlanmıştır.
+
+Temel işlevlerin tasarımına başlanmıştır.
+
+Takım içi iletişim ve görev dağılımı etkin şekilde yürütülmüştür.
+
+
 
 #### Sprint Retrospective
 - Yeni proje fikrinde fikir birliği sağlandı ve belirsizlik giderildi.  
