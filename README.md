@@ -55,23 +55,23 @@ Takım Adı = 147
 
 ### Sprint Puanlama ve Takip Durumu
 
--Sprint başında tamamlanması planlanan görevlerin tahmini puanları belirlenmiştir ancak, bu sprintte puanların düzenli takibi ve tamamlama süreci henüz aktif olarak uygulanmamıştır.
+- Sprint başında tamamlanması planlanan görevlerin tahmini puanları belirlenmiştir ancak, bu sprintte puanların düzenli takibi ve tamamlama süreci henüz aktif olarak uygulanmamıştır.
 
-Önümüzdeki sprintlerde, Trello board üzerinde görevlerin puanları takip edilerek ilerleyiş daha net ve şeffaf şekilde izlenecektir.
+ Önümüzdeki sprintlerde, Trello board üzerinde görevlerin puanları takip edilerek ilerleyiş daha net ve şeffaf şekilde izlenecektir.
 
 
 #### Sprint Review
--Proje fikri kişiselleştirilmiş dil öğrenme asistanı olarak netleşmiştir.
+- Proje fikri kişiselleştirilmiş dil öğrenme asistanı olarak netleşmiştir.
 
--Takım üyelerinin rolleri (mobil geliştirici, backend geliştirici, proje yöneticisi) belirlenmiştir.
+- Takım üyelerinin rolleri (mobil geliştirici, backend geliştirici, proje yöneticisi) belirlenmiştir.
 
--Gerekli teknik altyapı çalışmaları tamamlanmıştır.
+- Gerekli teknik altyapı çalışmaları tamamlanmıştır.
 
--Proje yol haritası oluşturulmuştur.
+- Proje yol haritası oluşturulmuştur.
 
--Temel işlevlerin tasarımına başlanmıştır.
+- Temel işlevlerin tasarımına başlanmıştır.
 
--Takım içi iletişim ve görev dağılımı etkin şekilde yürütülmüştür.
+- Takım içi iletişim ve görev dağılımı etkin şekilde yürütülmüştür.
 
 
 
