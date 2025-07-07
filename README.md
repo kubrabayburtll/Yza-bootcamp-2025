@@ -51,29 +51,28 @@ Takım Adı = 147
 - Yeni proje fikri üzerinde takım olarak mutabık kalındı ve ana hatları netleştirildi.  
 - Takım rolleri belirlendi ve görev dağılımı yapıldı.  
 - Bir sonraki sprintte ürün backlog’u oluşturulacak ve ilk MVP adımları atılacaktır.[Sprint-1 Daily Scrum](https://imgur.com/a/TzvYnes)
+  
 
+### Sprint Puanlama ve Takip Durumu
 
+-Sprint başında tamamlanması planlanan görevlerin tahmini puanları belirlenmiştir ancak, bu sprintte puanların düzenli takibi ve tamamlama süreci henüz aktif olarak uygulanmamıştır.
 
+Önümüzdeki sprintlerde, Trello board üzerinde görevlerin puanları takip edilerek ilerleyiş daha net ve şeffaf şekilde izlenecektir.
 
 
 #### Sprint Review
-Proje fikri kişiselleştirilmiş dil öğrenme asistanı olarak netleşmiştir.
+-Proje fikri kişiselleştirilmiş dil öğrenme asistanı olarak netleşmiştir.
 
-Takım üyelerinin rolleri (frontend geliştirici, backend geliştirici, proje yöneticisi) belirlenmiştir.
+-Takım üyelerinin rolleri (mobil geliştirici, backend geliştirici, proje yöneticisi) belirlenmiştir.
 
-Gerekli teknik altyapı çalışmaları tamamlanmıştır:
+-Gerekli teknik altyapı çalışmaları tamamlanmıştır.
 
--Figma tasarım çalışmaları
+-Proje yol haritası oluşturulmuştur.
 
--Backend mimari planlaması
+-Temel işlevlerin tasarımına başlanmıştır.
 
-Proje yol haritası oluşturulmuştur.
+-Takım içi iletişim ve görev dağılımı etkin şekilde yürütülmüştür.
 
-İlk kullanıcı arayüzü prototipi hazırlanmıştır.
-
-Temel işlevlerin tasarımına başlanmıştır.
-
-Takım içi iletişim ve görev dağılımı etkin şekilde yürütülmüştür.
 
 
 
